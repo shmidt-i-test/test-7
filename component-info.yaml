@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: test-component-7
+  description: Some description
+spec:
+  type: website
+  lifecycle: experimental
+  owner: bob
